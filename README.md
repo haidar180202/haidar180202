@@ -62,9 +62,10 @@ I’m actively investing in better engineering practices, architectural thinking
 ---
 
 ## Experience
-
+- Frontend Developer — IFG (Indonesian Financial Group)  
+  September 2024 – November 2025
 - Application Development Associate (Lead, Internal MII Team) — PT Bukit Asam Tbk  
-  September 2024 – Present
+  September 2024 – November 2025
 - Application Engineering (Electronics Engineer) — Freelance  
   December 2023 – July 2024
 - Full Stack Developer — PT Pupuk Sriwidjaja (Fulltime)  
