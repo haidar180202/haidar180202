@@ -41,6 +41,7 @@ Hello! I'm Muhammad Haidar Shahab — a Full Stack Developer driven by technolog
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)]()
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)]()
+[![Ollama](https://img.shields.io/badge/OpenAI-412991?logo=ollama&logoColor=white)]()
 [![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-4B5563)]()
 
 ---
